@@ -1,0 +1,113 @@
+
+
+body
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.bg-main
+{
+	background-image: url('rest5.jpg');
+	background-size: 100%;
+	height: auto;
+
+}
+
+
+h1,h2,h3,h4
+{
+	font-family: 'Pacifico', cursive;
+	color:gold !important;
+}
+
+.navbar
+{
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
+
+.nav-link
+{
+	color:white !important;
+	padding-left: 2rem !important;
+
+}
+
+
+.contact-primary-button
+{
+	color:#fff;
+	background-color: transparent;
+	border:2px solid #bb9f05;
+	margin-left: 1rem;
+	margin-top:5px;
+	padding: 2px 10px;
+	border-radius:5px;
+}
+
+.contact-primary-button:hover 
+{
+	background-color: #bb9f05;
+	transition:linear;
+	cursor: pointer;
+	transition-duration: .5s;
+}
+
+.jumbotron
+{
+	background: transparent;
+	color:#fff;
+	padding:5rem;
+	margin-bottom: 0;
+}
+
+.jumbotron a{
+	margin-top: 2rem;
+}
+
+.main-menu
+{
+	
+	background-position: auto;
+	background-size: 100% 100%;
+
+}
+
+
+.main-menu-img2
+{
+  width:25rem;
+}
+
+.price
+{
+	font-weight: Bold;
+	font-size: 1.5rem;
+}
+
+.row
+{
+	margin-bottom: 5rem;
+}
+
+.img-responsive
+{
+	height:15rem;
+	border-radius: 1rem;
+}
+
+.tastebuds
+{
+	margin-top:5rem;
+	margin-bottom: 5rem;
+}
+
+.main-tastebuds
+{
+	background-image: url('rest2.jpg');
+	background-size: 100%;
+	height: auto;
+	background-position: fixed;
+}
